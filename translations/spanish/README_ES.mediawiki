@@ -316,7 +316,12 @@ Esto hará que las delegaciones sean más frecuentes en toda la plataforma. Los 
 
 ===2.4 Piloto.===
 
-[agregar traduccion aqui]
+La Organización para la Cooperación y el Desarrollo Económico, "Adoptando la innovación en el gobierno": tendencias mundiales (2016).
+
+En octubre de 2016, después de un sorprendente y casi universalmente inesperado No a la paz en el plebiscito colombiano que puso en riesgo años de negociación entre el gobierno y los narco-guerrilleros marxistas de las FARC, Democracy Earth  realizó un pilotó con la plataforma sovereign de democracia líquida en un plebiscito digital promulgando un simbólico y trascendental ejercicio que permitia  votar a la diáspora Colombiana compuesta por ~ 6 millones de ciudadanos expatriados. En vez de darle a un votante la opción binaria, el piloto permitió a la gente votar por separado sobre cada uno de los siete subtemas del acuerdo para la terminación del conflicto y la construcción de una paz estable y duradera, Al mismo tiempo los usuarios podian delegar sus votos a votantes más informados sobre lo pactado entre el gobierno Colombiano y la guerrilla de las FARC, con los resultados del piloto se revelan matices importantes en las preferencias de los votantes no capturados en el plebiscito en papel, incluido el increile resultado que surgió: un abrumador "No" entre los participantes del proyecto piloto a una declaración particular del tratado de paz con respecto a la participación política de las FARC.
+
+El estudio piloto tuvo el impacto adicional de incrementar el acceso a los medios y el perfil político de la democracia líquida descentralizada y habilitada por cadenas de bloques en Colombia; ha surgido un partido político con esta nueva tendencia, el partido Partido de la Red Colombia, mientras que el Centro para la Innovación Pública Digital (CDPI) del gobierno colombiano también está investigando la tecnología.
+
 
 ===2.5 Smart Contracts.===
 
